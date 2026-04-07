@@ -1,0 +1,5 @@
+{
+  "name": "QR Login Portal",
+  "description": "A modern login page featuring traditional credentials and quick access via styled QR code authentication.",
+  "requestFramePermissions": []
+}
